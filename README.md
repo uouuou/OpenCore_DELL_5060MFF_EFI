@@ -1,0 +1,1 @@
+# OpenCore_DELL_5060MFF_EFI
