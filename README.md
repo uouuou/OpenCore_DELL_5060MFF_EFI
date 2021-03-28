@@ -7,6 +7,6 @@
 - 关闭VT-d
 - 关闭CFG Lock：0x5BE 0x0
 - 设置64M预分配显存：0x8DC 0x2
- - ***本EFI仅供参考，请自行修改三码使用***
+ ***本EFI仅供参考，请自行修改三码使用***
  ![img1](./img/cpu.png)
  ![img2](./img/gpu.png)
